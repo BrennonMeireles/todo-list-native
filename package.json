@@ -16,7 +16,10 @@
     "react-native": "0.74.1",
     "react-native-picker": "^4.3.7",
     "react-native-uuid": "^2.0.2",
-    "react-router-native": "^6.23.1"
+    "react-router-native": "^6.23.1",
+    "react-native-web": "~0.19.10",
+    "react-dom": "18.2.0",
+    "@expo/metro-runtime": "~3.2.1"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
